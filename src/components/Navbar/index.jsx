@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg sticky-top bg-body-tertiary">
       <div className="container-fluid">
         <Link to="/" className="navbar-brand">
-          <img src={clockImage} alt="ClockImage" width="80" height="75"></img>
+          <img src={clockImage} alt="ClockImage" width="60" height="52"></img>
         </Link>
         <button
           className="navbar-toggler"
